@@ -1,0 +1,12 @@
+body{
+    background-color: #242425 ;
+}
+
+.title, a, h5, h6, p{
+    color: darkgrey !important;
+}
+
+.card, .navbar{
+    background-color: #09090a !important;
+}
+
